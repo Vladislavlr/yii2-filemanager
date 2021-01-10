@@ -1,0 +1,21 @@
+{
+    "name": "vladislavlr/yii2-filemanager",
+    "description": "Upload files extension",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," filemanagerr"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladislav",
+            "email": "lr.vladislav@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "vladislavlr\\filemanager\\": ""
+        }
+    }
+}
